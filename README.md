@@ -7,7 +7,6 @@ This is a simple counter application that allows you to increase, decrease, and 
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Features
 
