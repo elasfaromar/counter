@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(Font/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: "Poppins-Medium";
+    src: url(Font/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(Font/Poppins-Bold.ttf);
+}
+
+h1{
+    font-family: "Poppins-Bold";
+    font-size: 13vh;
+}
+
+h3{
+    font-family: "Poppins-Regular";
+    font-size: 20vh;
+    padding: 0.1vw;
+    margin: 0.1vw;
+}
+
+body{
+    background-color: #8a2be2;
+    width: 100vw;
+    overflow-x: hidden;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+
+button{
+    font-family: "Poppins-Medium";
+}
